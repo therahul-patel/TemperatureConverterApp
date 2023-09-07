@@ -1,11 +1,10 @@
 # MyTemperatureConverterApp
 
-Welcome to MyTemperatureConverterApp, a simple Kotlin application for converting temperatures from Celsius to Fahrenheit.
+Welcome to MyTemperatureConverterApp, a simple java application for converting temperatures from Celsius to Fahrenheit.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [File Structure](#file-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,20 +19,6 @@ This Android app is designed to help users easily convert temperatures from Cels
 - Conversion of temperatures from Celsius to Fahrenheit.
 - Simple and intuitive user interface.
 
-## File Structure
-
-📂 MyTemperatureConverterApp
-┣ 📂 app
-┃ ┣ 📂 src
-┃ ┃ ┣ 📂 main
-┃ ┃ ┃ ┣ 📂 java
-┃ ┃ ┃ ┃ ┣ 📄 MainActivity.kt
-┃ ┃ ┃ ┣ 📂 res
-┃ ┃ ┃ ┃ ┣ 📂 layout
-┃ ┃ ┃ ┃ ┃ ┣ 📄 activity_main.xml
-┣ 📄 build.gradle (Module: app)
-┣ 📄 build.gradle (Project: MyTemperatureConverterApp)
-┗ 📄 requirements.txt
 
 
 ## Requirements
